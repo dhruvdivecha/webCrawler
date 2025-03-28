@@ -1,0 +1,24 @@
+{
+  "name": "webcrawler",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/dhruvdivecha/webCrawler#readme",
+  "bugs": {
+    "url": "https://github.com/dhruvdivecha/webCrawler/issues"
+  }, 
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhruvdivecha/webCrawler.git"
+  },
+  "license": "ISC",
+  "author": "dhruvdivecha",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
